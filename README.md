@@ -27,7 +27,7 @@ I’m a 3rd-year B.Tech student majoring in Electronics and Communication Engine
 
 ## 🌐 Live Website
 
-👉 [Visit My Portfolio](‭https://myprotfolio-jahnavi.netlify.app/)
+👉 [Visit My Portfolio] https://myprotfolio-jahnavi.netlify.app/
 
 ## 📫 Connect with Me
 
