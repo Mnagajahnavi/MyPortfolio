@@ -25,12 +25,6 @@ I’m a 3rd-year B.Tech student majoring in Electronics and Communication Engine
 - 🔹 **Achievements** – Events, leadership roles, and recognitions
 - 🔹 **Resume** – Downloadable PDF version
 
-## 📷 Project Previews
-
-> Here's a quick demo of one of my projects:
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
 ## 🌐 Live Website
 
 👉 [Visit My Portfolio](‭https://myprotfolio-jahnavi.netlify.app/)
